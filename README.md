@@ -8,6 +8,10 @@ http://cs.stanford.edu/people/karpathy/canvas/evolve.html
 
 https://github.com/karpathy/notpygamejs
 
+Starter code / framework - 
+
+http://karpathy.ca/phyces/tutorial1.php
+
 
 # How to run?
 ```
